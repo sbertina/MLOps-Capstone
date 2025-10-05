@@ -78,7 +78,7 @@ mlops-deployed/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/mlops-deployed.git
+git clone https://github.com/sbertina/MLOps-Capstone.git
 cd mlops-deployed
 ```
 
