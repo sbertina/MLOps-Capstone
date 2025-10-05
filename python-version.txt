@@ -1,0 +1,3 @@
+git add requirements.txt
+git commit -m "Remove pillow from requirements, let streamlit manage it"
+git push origin main
