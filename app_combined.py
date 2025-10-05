@@ -260,11 +260,7 @@ elif page == "Campaign Simulation":
             This heatmap shows the projected ROI for different scenarios:
             - **Response Rate (Y-axis)**: % of targeted customers who respond to the campaign
             - **Uplift in Spend (X-axis)**: % increase in spending from responding customers
-            
-            **Interpretation**:
-            - Red/warm colors indicate positive ROI (campaign is profitable)
-            - Blue/cool colors indicate negative ROI (campaign loses money)
-            - The campaign becomes profitable when the uplift in spending exceeds the discount cost
+        
             """)
 
 # Footer
