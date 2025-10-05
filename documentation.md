@@ -7,8 +7,6 @@
 4. [Data Model](#data-model)
 5. [API Reference](#api-reference)
 6. [Deployment Guide](#deployment-guide)
-7. [Troubleshooting](#troubleshooting)
-8. [Performance Optimization](#performance-optimization)
 
 ---
 
